@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #101130;
+  height: 100px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+pre {
+  text-align: left;
+  white-space: pre-line;
+}
